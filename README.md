@@ -19,3 +19,4 @@ java -cp out TwoSum
 | 3 | [ValidParentheses](src/ValidParentheses.java) | Balanced brackets with a stack - O(n) |
 | 4 | [ReverseLinkedList](src/ReverseLinkedList.java) | Reverse a singly linked list, iterative and recursive |
 | 5 | [MinStack](src/MinStack.java) | Stack with O(1) minimum using a second stack |
+| 6 | [GcdLcm](src/GcdLcm.java) | GCD with Euclid algorithm, LCM without overflow |
