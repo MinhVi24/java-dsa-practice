@@ -28,3 +28,4 @@ java -cp out TwoSum
 | 12 | [BinarySearchTree](src/BinarySearchTree.java) | BST insert / contains / delete / in-order |
 | 13 | [GridShortestPath](src/GridShortestPath.java) | BFS shortest path on a grid with walls |
 | 14 | [Fibonacci](src/Fibonacci.java) | Memoization vs bottom-up DP |
+| 15 | [Knapsack01](src/Knapsack01.java) | 0/1 knapsack DP - O(n*W) time, O(W) space |
