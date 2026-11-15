@@ -25,3 +25,4 @@ java -cp out TwoSum
 | 9 | [SlidingWindow](src/SlidingWindow.java) | Max sum of k elements, longest substring without repeats |
 | 10 | [MergeSort](src/MergeSort.java) | Stable O(n log n) sort with one temp buffer |
 | 11 | [QuickSort](src/QuickSort.java) | Random-pivot quick sort, in place, O(log n) stack |
+| 12 | [BinarySearchTree](src/BinarySearchTree.java) | BST insert / contains / delete / in-order |
