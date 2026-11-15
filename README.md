@@ -30,3 +30,4 @@ java -cp out TwoSum
 | 14 | [Fibonacci](src/Fibonacci.java) | Memoization vs bottom-up DP |
 | 15 | [Knapsack01](src/Knapsack01.java) | 0/1 knapsack DP - O(n*W) time, O(W) space |
 | 16 | [LongestIncreasingSubsequence](src/LongestIncreasingSubsequence.java) | LIS in O(n log n) with binary search |
+| 17 | [Permutations](src/Permutations.java) | Backtracking: all permutations |
