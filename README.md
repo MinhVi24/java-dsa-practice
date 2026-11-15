@@ -14,3 +14,4 @@ java -cp out TwoSum
 
 | # | Problem | Idea |
 |---|---------|------|
+| 1 | [TwoSum](src/TwoSum.java) | Two Sum with a hash map - O(n) |
