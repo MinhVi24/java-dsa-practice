@@ -21,3 +21,4 @@ java -cp out TwoSum
 | 5 | [MinStack](src/MinStack.java) | Stack with O(1) minimum using a second stack |
 | 6 | [GcdLcm](src/GcdLcm.java) | GCD with Euclid algorithm, LCM without overflow |
 | 7 | [SieveOfEratosthenes](src/SieveOfEratosthenes.java) | All primes up to n - O(n log log n) |
+| 8 | [PrefixSum](src/PrefixSum.java) | O(1) range-sum queries after O(n) preprocessing |
