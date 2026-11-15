@@ -15,3 +15,4 @@ java -cp out TwoSum
 | # | Problem | Idea |
 |---|---------|------|
 | 1 | [TwoSum](src/TwoSum.java) | Two Sum with a hash map - O(n) |
+| 2 | [BinarySearch](src/BinarySearch.java) | Binary search and lower bound - O(log n) |
