@@ -24,3 +24,4 @@ java -cp out TwoSum
 | 8 | [PrefixSum](src/PrefixSum.java) | O(1) range-sum queries after O(n) preprocessing |
 | 9 | [SlidingWindow](src/SlidingWindow.java) | Max sum of k elements, longest substring without repeats |
 | 10 | [MergeSort](src/MergeSort.java) | Stable O(n log n) sort with one temp buffer |
+| 11 | [QuickSort](src/QuickSort.java) | Random-pivot quick sort, in place, O(log n) stack |
