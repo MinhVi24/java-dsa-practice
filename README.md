@@ -17,3 +17,4 @@ java -cp out TwoSum
 | 1 | [TwoSum](src/TwoSum.java) | Two Sum with a hash map - O(n) |
 | 2 | [BinarySearch](src/BinarySearch.java) | Binary search and lower bound - O(log n) |
 | 3 | [ValidParentheses](src/ValidParentheses.java) | Balanced brackets with a stack - O(n) |
+| 4 | [ReverseLinkedList](src/ReverseLinkedList.java) | Reverse a singly linked list, iterative and recursive |
